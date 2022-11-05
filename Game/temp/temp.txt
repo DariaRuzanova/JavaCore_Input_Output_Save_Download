@@ -1,0 +1,13 @@
+Папка \Game была успешна создана.
+Папка \Game\src была успешна создана.
+Папка \Game\res была успешна создана.
+Папка \Game\savegames была успешна создана.
+Папка \Game\temp была успешна создана.
+Папка \Game\src\main была успешна создана.
+Папка \Game\src\test была успешна создана.
+Папка \Game\res\drawables была успешна создана.
+Папка \Game\res\vectors была успешна создана.
+Папка \Game\res\icons была успешна создана.
+Файл \Game\src\main\Main.java успешно создан.
+Файл \Game\src\main\Utils.java успешно создан.
+Файл \Game\temp\temp.txt успешно создан.
